@@ -1,0 +1,135 @@
+.header {
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+
+.logo {
+    object-fit: cover;
+    width: 40%;
+    height: 140px;
+}
+
+.footer {
+
+    width: 100%;
+    height: 160%;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+* {
+    padding: 0;
+}
+
+body {
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: black;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+.logo {
+    object-fit: cover;
+    width: 100%;
+
+}
+
+/*html, body {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}*/
+
+.h1 {
+    margin-right: 5%;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+
+}
+
+.menu li {
+}
+
+a.forma {
+    text-decoration: none;
+    color: #0a0a0a;
+
+}
+
+.telephone {
+    text-align: center;
+}
+
+a.button {
+    isplay: inline-block;
+    background: #2196f3;
+    color: #fff;
+    padding: 12px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+
+}
+
+text {
+    text-align: left;
+}
+
+.colon {
+
+    align: justify;
+
+}
+
+.h1_f {
+    list-style: none;
+    justify-content: left;
+}
+
+.text {
+    text-align: center;
+    vertical-align: top;
+}
+
+.logo_text {
+    width: 60%;
+    height: 60%;
+    text-align: right;
+}
+
+.sulca {
+    align-items: center;
+    color: #0a0a0a;
+    text-decoration: #2196f3;
+}
+
+
+.telephone_2 {
+    text-align: center;
+}
+
+div {
+
+}
+
+.cart {
+    align: right;
+
+}
+

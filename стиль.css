@@ -1,0 +1,134 @@
+.header {
+    width: 100%;
+    height: 110px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 30px 15px;
+    box-sizing: border-box;
+
+}
+
+.footer {
+
+    width: 100%;
+    height: 160%;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 15px;
+    box-sizing: border-box;
+}
+
+* {
+    padding: 0;
+}
+
+body {
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: black;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+.logo{
+    object-fit: cover;
+    width: 40%;
+    height: 140px;
+
+}
+
+.h1{
+    margin-right: 5%;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+.menu li{
+    margin-right: 50px;
+}
+a.forma{
+    text-decoration: none;
+    color: #0a0a0a;
+
+}
+
+.telephone {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+a.button {
+    isplay: inline-block;
+    background: #2196f3;
+    color: #fff;
+    padding: 12px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+
+}
+
+text {
+    text-align: left;
+}
+.colon{
+
+    align:justify;
+
+}
+.h1_f{
+    list-style: none;
+    margin-left: 40px;
+    margin-right: 80px;
+    margin-top: 10px;
+    justify-content: left;
+}
+
+.text {
+    text-align: center;
+    vertical-align: top;
+    height: 100px;
+}
+
+.logo_text {
+    width: 60%;
+    height:60%;
+    text-align: right;
+}
+
+.sulca {
+    align-items: center;
+    margin-left:20px;
+    margin-top: 8px;
+    color: #0a0a0a;
+    text-decoration: #2196f3;
+}
+
+
+.telephone_2 {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+div {
+
+}
+
+.cart {
+    width:100px;
+    height:200px;
+    align:right;
+
+}
+
